@@ -1,0 +1,5 @@
+.nav-link { /* Assuming a class for your navigation links */
+  display: inline;
+  margin-left: 15px; /* Adjust spacing as needed */
+  text-decoration: none; color: inherit;float: right;font-weight: bold;
+}
